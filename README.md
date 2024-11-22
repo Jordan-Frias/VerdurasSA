@@ -1,5 +1,3 @@
-Aquí tienes un texto modificado, pero manteniendo el mismo significado:
-
 ¡Bienvenido a la app "Verduritas SA"!
 Esta aplicación para Android está diseñada para ayudarte a gestionar y monitorear tus cultivos de forma práctica y eficaz.
 
